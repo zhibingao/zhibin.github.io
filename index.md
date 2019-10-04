@@ -1,11 +1,11 @@
 ---
 comments: true
 layout: page
-title: 执着于理想，纯粹于当下 - 阿川的个人博客
+title: 执着于理想，纯粹于当下 - 高志斌的个人博客
 ---
 ---
 
-![阿川的个人照片]({{ site.article }}index/head.png?achuan.io "阿川的照片")
+![高志斌的个人照片]({{ site.article }}index/head.png?achuan.io "高志斌的照片")
 
 我叫阿川，一个内向的蛋蛋后程序猿，一名刚踏入社会不久的21世纪储备人才，自从小时候时接触到了编程，从此对未来充满了无限遐想的我走上了一条不归之路......<br>
 
@@ -13,19 +13,17 @@ title: 执着于理想，纯粹于当下 - 阿川的个人博客
 
 虽为后生，但我还是有钻研精神的，我相信我能在这条路走的很远！目标——全栈架构师！而我现在唯一要做的就是努力努力再努力！加油！阿川！！！ ![加油！阿川！]({{ site.article }}index/cheer.gif?achuan.io "加油！阿川！")<br>
 
-阿川的个人博客于 2018-8-31 日正式创建，内容系本人学习、研究和总结。初来乍到，如有写的不足之处，还请您多多指教！<br>
+阿川的个人博客于 2019-10-04 日正式创建，内容系本人学习、研究和总结。初来乍到，如有写的不足之处，还请您多多指教！<br>
 
-2019-08-26 ~ 至今，就职于杭州中荆投资管理有限公司。隶属于技术部。担任BS软件开发工程师，工作环境蛮舒服，公司很有人情味，一个想加班都是奢望的金融投资公司，啊哈哈哈。
 
 <br><br><br>
 
 ### 联系方式：
 
-- Qzone：[阿川的个人空间]({{ site.author.Qzone }})<br>
-- Email：<achuan@achuan.io><br>
+- Email：<zhibingao@outlook.com><br>
 - WeChat：<br>
 
-![阿川的微信二维码]({{ site.article }}index/Micro letter.png?achuan.io "阿川的微信")
+![高志斌的微信二维码]({{ site.article }}index/Micro letter.png?achuan.io "阿川的微信")
 
 ---
 
