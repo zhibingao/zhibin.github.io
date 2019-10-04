@@ -5,7 +5,7 @@ title: 执着于理想，纯粹于当下 - 高志斌的个人博客
 ---
 ---
 
-![高志斌的个人照片]({{ site.article }}index/head.png?achuan.io "高志斌的照片")
+![高志斌的个人照片]({{ site.article }}index/head.png?zhibingao.github.io "高志斌的照片")
 
 我叫高志斌，一个内向的物理科研搬砖狗，自从小时候接触到了物理，从此对未来充满了无限遐想的我走上了一条不归之路......<br>
 
