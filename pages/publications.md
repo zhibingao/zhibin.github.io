@@ -1,17 +1,15 @@
 ---
 comments: true
 layout: page
-title: publications
+title: List of Publications
 ---
 ---
 
-345345
+This is the first one
 
-1
+This is the second one
 
-2
 
-3
 
 {% include disqus.html %}
 

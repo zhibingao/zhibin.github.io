@@ -65,8 +65,8 @@ archive: /pages/archive.html
 blogroll: /pages/blogroll.html
 # 留言
 message: /pages/message.html
-# publications
-publications: /pages/publications.html
+# Publications
+publications: /pages/Publications.html
 
 # Disqus设置
 disqus: 
