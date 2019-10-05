@@ -7,19 +7,23 @@ title: Zhibin GAO
 
 ![高志斌的个人照片]({{ site.article }}index/head.png?zhibingao.github.io "高志斌的照片")
 
-Email：<zhibingao@outlook.com><br>
-Email：<zhibin.gao@nus.edu.sg><br>
+<br><br>
 
+###Email：<zhibingao@outlook.com><br>
+###Email：<zhibin.gao@nus.edu.sg><br>
+<br>
 
+Adress: Department of Physics, National University of Singapore, Singapore 117551, 
+Republic of Singapore.
+<br>
 
-<br><br><br>
+Area of Research: Lattice Dynamics; Nano-Mechanics
+<br>
 
-### 联系方式：
+Experience: 2013 B.Sc, Shanxi Normal University, Shanxi, China; 2018 Ph. D, Tongji University, Shanghai, China; 2019-current Research fellow, National University of Singapore, Singapore.
 
-- Email：<zhibingao@outlook.com><br>
-- WeChat：<br>
+<br><br>
 
-![高志斌的微信二维码]({{ site.article }}index/Micro letter.png?achuan.io "阿川的微信")
 
 ---
 
