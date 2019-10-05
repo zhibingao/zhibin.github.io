@@ -1,9 +1,9 @@
 # [嗨，你好啊！欢迎来到我的博客！][1]
-[1]: https://achuan.io
+[1]: zhibingao.github.io
 
 ## 博客目录结构
 
-    achuanya.github.io   Jekyll博客根目录
+    zhibingao.github.io   Jekyll博客根目录
     ├─_drafts            文章草稿目录
     │
     ├─_includes          博客主要模块目录
