@@ -16,6 +16,7 @@ Adress: Department of Physics, National University of Singapore, Singapore 11755
 Republic of Singapore.
 <br>
 
+## 离职Area of Research
 Area of Research: Lattice Dynamics; Nano-Mechanics
 <br>
 
