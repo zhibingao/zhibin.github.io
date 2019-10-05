@@ -19,7 +19,7 @@ Republic of Singapore.
 <br><br>
 
 ## Area of Research
-Area of Research: Lattice Dynamics; Nano-Mechanics
+Lattice Dynamics; Nano-Mechanics
 <br><br>
 
 ## Experience
