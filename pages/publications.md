@@ -12,3 +12,6 @@ title: List of Publications
 2
 
 3
+
+{% include disqus.html %}
+
