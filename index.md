@@ -23,9 +23,9 @@ Area of Research: Lattice Dynamics; Nano-Mechanics
 <br><br>
 
 ## Experience
-2009.09-2013.07 B.Sc, Shanxi Normal University, Shanxi, China;<br> 
-2013.09-2018.09 Ph. D, Tongji University, Shanghai, China;<br> 
-2019.03-current Research fellow, National University of Singapore, Singapore.
+2009.09-2013.07 B.Sc, Physics, Shanxi Normal University, Shanxi, China;<br> 
+2013.09-2018.09 Ph. D, Physics, Tongji University, Shanghai, China;<br> 
+2019.03-current Research fellow, Physics, National University of Singapore, Singapore.
 <br><br><br><br>
 
 ---
