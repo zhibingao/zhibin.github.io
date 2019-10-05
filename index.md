@@ -30,6 +30,4 @@ Area of Research: Lattice Dynamics; Nano-Mechanics
 
 ---
 
-[1]: http://www.dxinfo.com?achuan.io
-
 {% include disqus.html %}
