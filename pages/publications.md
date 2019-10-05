@@ -1,7 +1,7 @@
 ---
 comments: true
 layout: page
-title: achuan
+title: publications
 ---
 ---
 

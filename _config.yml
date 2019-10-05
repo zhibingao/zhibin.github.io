@@ -66,7 +66,7 @@ blogroll: /pages/blogroll.html
 # 留言
 message: /pages/message.html
 # 留言
-achuan: /pages/achuan.html
+publications: /pages/publications.html
 
 # Disqus设置
 disqus: 
