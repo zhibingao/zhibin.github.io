@@ -19,7 +19,7 @@ title: publications
 
 
 [1]: https://scholar.google.com.sg/citations?user=LN4AinsAAAAJ&hl=en
-[2]: https://www.researchgate.net/profile/Zhibin_Gao
+[2]: https://www.researchgate.net/profile/Zhibin_Gao2
 
 {% include disqus.html %}
 
