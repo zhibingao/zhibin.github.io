@@ -1,7 +1,7 @@
 ---
 comments: true
 layout: page
-title: 执着于理想，纯粹于当下 - 高志斌的个人博客
+title: Zhibin Gao
 ---
 ---
 
