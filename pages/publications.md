@@ -60,10 +60,44 @@ author and the respective publisher.*
      *Adv. Funct. Mater.* **28**, 1805710 (2018)<br/>
      [pdf file], [Publisher's link](https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201805710)<br/>
 
-||10. 
+||10. **Z. Gao**, D. Liu, and D. Tomanek, "Two-Dimensional Mechanical Metamaterials 
+      with Unusual Poisson Ratio Behavior",
+      *Phys. Rev. Appl.* **10**, 064039 (2018)<br/>
+      [pdf file], [Publisher's link](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.10.064039)<br/>
 
-||11. 
+||11. L. Zhang, J. Song, W. Wu, **Z. Gao**, B. He, X. Ni, Q. Long, L. Lu,
+      and G. Zhu, "Effect of processing parameters on thermal behavior and 
+      related density in GH3536 alloy manufactured by selective laser melting",
+      *Journal of Materials Research*, **34**, 1405-1414 (2019)<br/>
+      [pdf file], [Publisher's link](https://www.cambridge.org/core/journals/journal-of-materials-research/article/effect-of-processing-parameters-on-thermal-behavior-and-related-density-in-gh3536-alloy-manufactured-by-selective-laser-melting/B8400B285537DD37C9FDA32F38BEC5C1)<br/>
 
+||12. Y. Wang, **Z. Gao**, and J. Zhou, "Ultralow lattice thermal conductivity 
+      and electronic properties of monolayer 1T phase semimetal 
+      SiTe<sub>2</sub> and SnTe<sub>2</sub>",
+      *Physica E*, **108**, 53-59 (2019)<br/>
+      [pdf file], [Publisher's link](https://www.sciencedirect.com/science/article/pii/S1386947718314115)<br/>
+
+||13. G. Liu, **Z. Gao**, J. Zhou, "Strain effects on the mechanical properties 
+      of Group-V monolayers with buckled honeycomb structures",
+      *Physica E*, **112**, 59-65 (2019)<br/>
+      [pdf file], [Publisher's link](https://www.sciencedirect.com/science/article/pii/S1386947718318733)<br/>
+
+||14. **Z. Gao**, Z. Zhou, and D. Tomanek, "Degenerately Doped Transition Metal
+      Dichalcogenides as Ohmic Homojunction Contacts to Transition Metal 
+      Dichalcogenide Semiconductors",
+      *ACS Nano.* **13**, 5103-5111 (2019).<br/>
+      [pdf file], [Publisher's link](https://pubs.acs.org/doi/abs/10.1021/acsnano.8b08190)<br/>
+
+||15. J. Song, **Z. Gao**, L. Zhang, W. Wu, B. He, and L. Lu, "Prediction on elastic
+      properties of Nb-doped Ni systems",
+      *Molecular Simulation*, **45**, 935-941 (2019)<br/>
+      [pdf file], [Publisher's link](https://www.tandfonline.com/doi/abs/10.1080/08927022.2019.1614177)<br/>
+
+||16. G. Liu, **Z. Gao**, J. Ren, "Anisotropic thermal expansion and thermodynamic
+      properties of monolayer $\beta$-Te",
+      *Phys. Rev. B.* **99**, 195436 (2019).<br/>
+      [pdf file], [Publisher's link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.195436)<br/>
+          
 
 
 
