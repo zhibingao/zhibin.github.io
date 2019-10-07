@@ -11,10 +11,16 @@ title: Zhibin GAO
 ## **Email**
 <zhibingao@outlook.com><br>
 <zhibin.gao@nus.edu.sg><br>
-<font size=7>我是变大的字</font>
+
+<font size="30">size为30</font><br />
+
+<font size=30>我是变大的字</font>
+
 <p style="font-size:30px"></p>
 
 <font size=30>size为30</font><br />
+
+
 <br>
 
 ## **Address**
