@@ -55,8 +55,8 @@ author and the respective publisher.*
      [pdf file], [Publisher's link](https://pubs.acs.org/doi/abs/10.1021/acsami.8b11836)<br/>
 
 ||9. Y. Liu, **Z. Gao**, M. Chen, Y. Tan, and F. Chen, "Thin Films: Enhanced 
-     Raman Scattering of CuPc Films on Imperfect W$Se_2$ Monolayer Correlated to 
-     Exciton and Charge‐Transfer Resonances",
+     Raman Scattering of CuPc Films on Imperfect WSe<sub>2</sub> Monolayer 
+     Correlated to Exciton and Charge‐Transfer Resonances",
      *Adv. Funct. Mater.* **28**, 1805710 (2018)<br/>
      [pdf file], [Publisher's link](https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201805710)<br/>
 
