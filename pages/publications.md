@@ -13,8 +13,10 @@ title: List of Publications
 downloaded for personal use only. Any other use requires prior permission of the 
 author and the respective publisher.*
 
-||1. Heat conduction and energy diffusion in momentum-conserving 
-     one-dimensional full-lattice ding-a-ling model
+||1. <u>**Z. Gao**</u>, N. Li, and B. Li, "Heat conduction and energy diffusion 
+     in momentum-conserving one-dimensional full-lattice ding-a-ling model",
+     *Phys. Rev. E* **93**, 022102 (2016).
+     [pdf file], [Publisher's link](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.93.022102)
 
 ||2. Heat conduction and energy diffusion in momentum-conserving one-dimensional 
      full-lattice ding-a-ling model
