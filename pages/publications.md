@@ -6,10 +6,17 @@ title: publications
 ---
 [Google Scholar (Zhibin Gao)](https://scholar.google.com.sg/citations?user=LN4AinsAAAAJ&hl=en)
 
-[Researchgate (Zhibin Gao)][2]
+[Researchgate (Zhibin Gao)](https://www.researchgate.net/profile/Zhibin_Gao2)
 
 
-1. 
+1. Heat conduction and energy diffusion in momentum-conserving one-dimensional 
+   full-lattice ding-a-ling model
+
+2. Heat conduction and energy diffusion in momentum-conserving one-dimensional 
+   full-lattice ding-a-ling model
+
+3. Heat conduction and energy diffusion in momentum-conserving one-dimensional 
+   full-lattice ding-a-ling model
 
 
 
@@ -17,8 +24,7 @@ title: publications
  
 
 
-[1]: https://scholar.google.com.sg/citations?user=LN4AinsAAAAJ&hl=en
-[2]: https://www.researchgate.net/profile/Zhibin_Gao2
+
 
 {% include disqus.html %}
 
