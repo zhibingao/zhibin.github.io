@@ -4,16 +4,15 @@ layout: page
 title: publications
 ---
 ---
-[Google Scholar][1]
+[Google Scholar (Zhibin Gao)](https://scholar.google.com.sg/citations?user=LN4AinsAAAAJ&hl=en)
 
-[Researchgate][2]
+[Researchgate (Zhibin Gao)][2]
 
 
 1. 
 
 
-2222
-111
+
    
  
 
