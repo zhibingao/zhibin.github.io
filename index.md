@@ -14,7 +14,7 @@ title: Zhibin GAO
 
 <font size="30">size为30</font><br />
 
-<font size=30>我是变大的字</font>
+<font size=30>size为30</font>
 
 <p style="font-size:30px"></p>
 
