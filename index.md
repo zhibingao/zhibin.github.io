@@ -12,6 +12,7 @@ title: Zhibin GAO
 <zhibingao@outlook.com><br>
 <zhibin.gao@nus.edu.sg><br>
 <font size="30">size为30</font><br />
+size为10：<font size="10">size为10</font><br /> 
 <br>
 
 ## Address
