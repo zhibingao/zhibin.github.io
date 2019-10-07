@@ -13,14 +13,14 @@ title: List of Publications
 downloaded for personal use only. Any other use requires prior permission of the 
 author and the respective publisher.*
 
-1.|1. Heat conduction and energy diffusion in momentum-conserving 
-      one-dimensional full-lattice ding-a-ling model
+||1. Heat conduction and energy diffusion in momentum-conserving 
+     one-dimensional full-lattice ding-a-ling model
 
-2.|2. Heat conduction and energy diffusion in momentum-conserving one-dimensional 
-      full-lattice ding-a-ling model
+||2. Heat conduction and energy diffusion in momentum-conserving one-dimensional 
+     full-lattice ding-a-ling model
 
-3.|3. Heat conduction and energy diffusion in momentum-conserving one-dimensional 
-      full-lattice ding-a-ling model
+||3. Heat conduction and energy diffusion in momentum-conserving one-dimensional 
+     full-lattice ding-a-ling model
 
 
 
